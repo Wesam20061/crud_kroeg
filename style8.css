@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(5, 206, 237);
+    
+}
+
+.center-table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center-button {
+    text-align: center;
+}
+.center-text1 {
+    text-align: center;
+}
